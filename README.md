@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=157a33&height=250&section=header&text=Professional%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=157a33&height=250&section=header&text=Programmer%20Wota&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🍃 Professional Profile
+### 🍃 Programmer Wota Profile
 
 Seorang pengembang perangkat lunak yang berdedikasi dalam membangun solusi digital yang efisien dan inovatif. Memiliki kebanggaan besar sebagai **Staff RefreshBreeze (Idol Group Tulungagung)**, di mana saya bertanggung jawab dalam pengelolaan website dan infrastruktur digital.
 
