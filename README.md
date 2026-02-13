@@ -1,4 +1,6 @@
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=157a33&height=220&section=header&text=Programmer%20Wota&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+</div>
 
 <div align="center">
   <p><b>Programmer Wota | Software Developer | System Management</b></p>
