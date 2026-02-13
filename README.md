@@ -1,69 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=157a33&height=250&section=header&text=Programmer%20Wota&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=157a33&height=220&section=header&text=M-Ferdy-Nurdianto&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-  <h1>🌿 M-Ferdy-Nurdianto</h1>
-  <p><b>Software Developer | System Management | Idol Tech Enthusiast</b></p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Pride-RefreshBreeze%20Staff-2ea44f?style=for-the-badge&logo=leaf&logoColor=white" />
-    <img src="https://img.shields.io/badge/Project-Soeltan%20Medsos-157a33?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Community-Programmer%20Wota-white?style=for-the-badge&logo=heart&logoColor=red" />
-  </p>
+  <p><b>Programmer Wota | Software Developer | System Management</b></p>
+  <p>🍃 <i>Bringing a "Fresh Breeze" to the Digital Ecosystem</i> 🍃</p>
 </div>
 
----
-
-### 🍃 Programmer Wota Profile
-
-Seorang pengembang perangkat lunak yang berdedikasi dalam membangun solusi digital yang efisien dan inovatif. Memiliki kebanggaan besar sebagai **Staff RefreshBreeze (Idol Group Tulungagung)**, di mana saya bertanggung jawab dalam pengelolaan website dan infrastruktur digital.
-
-Sebagai seorang **Programmer Wota**, saya percaya bahwa teknologi dan kreativitas idol dapat berjalan berdampingan untuk menghadirkan pengalaman yang luar biasa bagi penggemar.
-
-#### 🚀 Pengalaman & Proyek Utama
-
-- **RefreshBreeze Group**: Pengembangan dan manajemen sistem website internal serta publik.
-- **Soeltan Medsos**: Kontribusi dalam pengembangan platform media sosial dan sistem terkait.
-- **Idol Group Ecosystems**: Berpengalaman dalam menangani berbagai proyek digital untuk beberapa grup idol lainnya.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Ferdy-Nurdianto&label=Visitor%20Count&color=2ea44f&style=flat-square" alt="M-Ferdy-Nurdianto" />
+</p>
 
 ---
 
-### 🔭 Aktivitas & Fokus Saat Ini
+### 🌿 Professional Journey
 
-- 🔭 **Sedang Membangun**: Platform **"Cheki Digital"** inovatif untuk mendukung interaksi berbagai talenta idol dengan penggemarnya. 📸✨
-- 🌱 **Sedang Mendalami**: Arsitektur Microservices dan implementasi Web Security tingkat lanjut.
-- 👯 **Kolaborasi**: Terbuka untuk diskusi mengenai pengembangan ekosistem digital di industri kreatif.
-- ⚡ **Fun Fact**: Selalu menemukan solusi algoritma terbaik sambil mendengarkan setlist lagu idol favorit.
+Seorang pengembang teknologi yang berdedikasi tinggi dengan fokus pada membangun infrastruktur digital yang efisien dan inovatif. Memiliki kebanggaan besar sebagai **Staff RefreshBreeze (Idol Group Tulungagung)**, di mana saya mengelola sistem manajemen dan ekosistem website utama.
 
----
+Sebagai **Programmer Wota**, saya percaya bahwa logika pemrograman dan energi kreatif dari dunia idol mampu menciptakan simbiosis teknologi yang luar biasa bagi para penggemar.
 
-### ✨ Mimpi & Harapan Besar
+#### 💡 Key Roles & Contributions
 
-Bagi saya, baris kode bukan sekadar logika, tapi jembatan untuk meraih mimpi di industri yang saya cintai:
-
-1.  🎯 Menjadi bagian dari **JOT (JKT48 Operation Team)** untuk berkontribusi langsung pada perkembangan grup idol terbesar di Indonesia.
-2.  🎤 Membangun dan mengelola **Grup Idol sendiri** yang mampu memberikan semangat dan kegembiraan bagi banyak orang.
+- **RefreshBreeze Group Staff** — Penanggung jawab infrastruktur IT dan manajemen sistem website.
+- **Soeltan Medsos** — Pengembangan platform media sosial dan sistem pendukung.
+- **Idol Industry Tech** — Menangani berbagai inisiatif digital untuk ekosistem grup idol lokal.
 
 ---
 
-### 🛠️ Tech Stack & Power Tools
+### 🚀 Sedang Dikerjakan (Current Quest)
 
-<div align="left">
+Saat ini, saya sedang mencurahkan kreativitas untuk membangun **"Cheki Digital Platform"** — sebuah solusi inovatif yang dirancang khusus untuk meningkatkan interaksi antara talenta idol dan penggemar melalui teknologi modern. ✨📸
+
+---
+
+### 🎯 Impian & Aspirasi Besar
+
+Bagi saya, kode adalah instrumen untuk mewujudkan ambisi yang lebih tinggi:
+
+1.  **JOT (JKT48 Operation Team)** — Memiliki impian besar untuk bergabung dan berkontribusi langsung bagi kemajuan JKT48.
+2.  **Creative Producer** — Membangun dan mengelola **Grup Idol sendiri** yang mampu menyebarkan kebahagiaan bagi banyak orang melalui perpaduan seni dan teknologi.
+
+---
+
+### 🛠️ Tech Stack & Expertise
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,js,tailwind,nodejs,py,java,supabase,git,vscode&perline=5" />
 </div>
 
-<br>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Logic-JavaScript%20/%20Python-39d353?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-157a33?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Database-Supabase%20/%20PostgreSQL-39d353?style=flat-square&logo=supabase" />
-</div>
+<p align="center">
+  <b>Specialized In:</b> Optimization | Scalability | Web Security | Creative Tech
+</p>
 
 ---
 
-### 📊 Statistik kontribusi & Performa
+### 📊 Contribution & Performance
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Ferdy-Nurdianto&show_icons=true&theme=emerald-green&hide_border=true" alt="GitHub Stats" />
@@ -75,30 +66,28 @@ Bagi saya, baris kode bukan sekadar logika, tapi jembatan untuk meraih mimpi di 
 
 ---
 
-### 🐍 Jalur Kontribusi (Greenery Version)
+### 🐍 The Code Journey
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/M-Ferdy-Nurdianto/M-Ferdy-Nurdianto/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  <br>
-  <i>Setiap baris kode adalah dedikasi untuk kemajuan teknologi.</i>
 </p>
 
 ---
 
-### 🤝 Mari Berdiskusi
+### 🤝 Mari Terhubung
 
-<div align="left">
+<div align="center">
   <a href="mailto:orangnoob6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/ikifer" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tiktok.com/@nobodybutfking" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://discord.com/users/stelajeruk_" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </div>
 
