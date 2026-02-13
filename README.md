@@ -98,7 +98,7 @@
 ### 🐍 Snake Animation (Makin Sangar)
 
 <p align="center">
-  <img src="https://github.com/M-Ferdy-Nurdianto/M-Ferdy-Nurdianto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/M-Ferdy-Nurdianto/M-Ferdy-Nurdianto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br>
   <i>(Bakal jalan klo lo pasang GitHub Action-nya, gess!)</i>
 </p>
