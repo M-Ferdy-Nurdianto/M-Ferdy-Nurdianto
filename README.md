@@ -106,10 +106,6 @@
 ### 📊 Vital Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ferdy-Nurdianto&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=react-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=157a33&area=true&hide_border=true" width="100%" />
 </div>
 
